@@ -1,3 +1,6 @@
 github
 algorithm
 pseudocode
+PAC
+IPO
+Flow chart
