@@ -1,11 +1,8 @@
 Ask the user to enter a Nth number
 Ask the user to enter another NUmber N
-IF 
-  Number N is Divisor of Nth 
-If
-  reminder is zero 
+IF Number N is Divisor of Nth 
+If reminder is zero 
 DISPLAY N is a divisor of Nth
 otherwise
-If
- reminder is not zero
+If reminder is not zero
 DISPLAY N is not a divisor of Nth
