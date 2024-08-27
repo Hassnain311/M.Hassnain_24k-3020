@@ -1,1 +1,18 @@
-
+START
+INPUT:
+  variable one as number 1
+  variable two as number 2
+  variable three as number 3
+Variable:
+  greatest between them
+Conditional Statement:
+  If number 1> number 2 and 3
+DISPLAY "number 1 is maximum"
+ ELSE DISPLAY "Not maximum number"
+  If number 2> number 1 and 3
+DISPLAY "number 2 is maximum"
+ ELSE DISPLAY "Not maximum number"
+  If number 3> number 1 and 2
+DISPLAY "number 3 is maximum"
+ ELSE DISPLAY "Not maximum number"
+END
