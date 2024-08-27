@@ -1,8 +1,10 @@
 START
-SET Three Variable as (-ve) number
-variable one as number 1
-variable two as number 2
-variable three as number 3
-SET ANS(-num1-num2-num3)
+INPUT:
+      SET Three Variable as (-ve) number
+      variable one as number 1
+      variable two as number 2
+      variable three as number 3
+Conditional Statement:
+                     SET ANS(-num1-num2-num3)
 DISPLAY"Answer"
 END
