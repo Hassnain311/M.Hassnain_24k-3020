@@ -1,0 +1,11 @@
+Ask the userto enter operator (+,-,/,%,*)
+If the user enter "+"
+SET Ans to number 1 + number 2
+If the user enter "-"
+SET Ans to Number 1 - number 2
+If the user enter "*"
+SET Ans to number 1 * number 2
+If the user enter "/"
+SET Ans to number 1 / number 2
+If the user enter "%"
+SET Ans to Number 1 % number 2
