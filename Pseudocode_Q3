@@ -1,1 +1,8 @@
-
+START
+SET the operator(+ or -)
+If(operator="+")
+SET Ans=NUM1=NUM2
+IF(operator="-")
+SET Ans=NUM1-NUM2
+DISPLAY "Answer"
+END
