@@ -1,1 +1,13 @@
-
+Ask the user enter a number 
+SET number 1= Print January
+ELSE If number 2= Print february
+ELSE If number 3= Print March
+ELSE If number 4= Print April
+ELSE If number 5= Print May
+ELSE IF number 6= Print June 
+ELSE IF number 7= Print July
+ELSE IF number 8= Print August
+ELSE If number 9= Print September 
+ELSE IF number 10= Print October
+ELSE If number 11= Print November
+ELSE IF number 12= Print December
